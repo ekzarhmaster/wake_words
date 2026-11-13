@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Нафаня",
+  "wake_word": "Nafanya",
   "author": "Custom",
   "website": "",
   "model": "nafanya.tflite",
