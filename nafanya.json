@@ -3,7 +3,7 @@
   "wake_word": "Нафаня",
   "author": "Custom",
   "website": "",
-  "model": "https://raw.githubusercontent.com/ekzarhmaster/wake_words/refs/heads/main/nafanya.tflite",
+  "model": "nafanya.tflite",
   "trained_languages": ["ru"],
   "version": 2,
   "micro": {
